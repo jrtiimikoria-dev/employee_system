@@ -1,0 +1,21 @@
+{
+  "providers": [
+    "php"
+  ],
+
+  "php": {
+    "version": "8.4",
+    "extensions": [
+      "gd",
+      "bcmath",
+      "ctype",
+      "fileinfo",
+      "mbstring",
+      "openssl",
+      "pdo",
+      "pdo_mysql",
+      "tokenizer",
+      "xml"
+    ]
+  }
+}
